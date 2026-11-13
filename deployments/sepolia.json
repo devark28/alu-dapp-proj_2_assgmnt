@@ -1,0 +1,10 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0xA105E8D690313a5ffad15f807f108a3d011Eb79D",
+  "logoHash": "0xe03128e7ed668d74c334ed965edf89d0e1b3da112f6aeb6233bfd191ad829348",
+  "logoTokenId": "1",
+  "registrationTransaction": "0x1fd1670e63c441deff6de9a121d2bc934a3d22db063873314663d949fbf4424a",
+  "ALUAssetRegistry": "0x9f92D707a21A3212aBCd5Fd22E74A6fEBA19e63f",
+  "ALULogoToken": "0xD5B6E32ac49F4dC38F429773b5AA1C49e50CcA75"
+}

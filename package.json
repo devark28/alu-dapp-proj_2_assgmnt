@@ -1,0 +1,23 @@
+{
+  "name": "alu-logo-dapp",
+  "version": "1.0.0",
+  "description": "Web dApp for the ALU logo registry (ERC-721) and ALU Logo Token (ERC-20)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "hash": "node scripts/hash-logo.js alu-logo.png",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "export:frontend": "hardhat run scripts/export-frontend.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "6.1.2",
+    "hardhat": "2.29.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.6.1"
+  }
+}

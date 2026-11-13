@@ -1,0 +1,11 @@
+docs/
+node_modules/
+artifacts/
+cache/
+coverage/
+typechain-types/
+deployments/hardhat.json
+frontend/dist/
+.env
+frontend/.env
+*.zip
