@@ -1,0 +1,22 @@
+{
+  "localhost": {
+    "network": "localhost",
+    "chainId": 31337,
+    "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "logoHash": "0xe03128e7ed668d74c334ed965edf89d0e1b3da112f6aeb6233bfd191ad829348",
+    "logoTokenId": "1",
+    "registrationTransaction": "0x7c5f93f9d75e0c8b06e92331444e6066c105a5c8bd825cce198b164b635a6d28",
+    "ALUAssetRegistry": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "ALULogoToken": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+  },
+  "sepolia": {
+    "network": "sepolia",
+    "chainId": 11155111,
+    "deployer": "0xA105E8D690313a5ffad15f807f108a3d011Eb79D",
+    "logoHash": "0xe03128e7ed668d74c334ed965edf89d0e1b3da112f6aeb6233bfd191ad829348",
+    "logoTokenId": "1",
+    "registrationTransaction": "0x1fd1670e63c441deff6de9a121d2bc934a3d22db063873314663d949fbf4424a",
+    "ALUAssetRegistry": "0x9f92D707a21A3212aBCd5Fd22E74A6fEBA19e63f",
+    "ALULogoToken": "0xD5B6E32ac49F4dC38F429773b5AA1C49e50CcA75"
+  }
+}
