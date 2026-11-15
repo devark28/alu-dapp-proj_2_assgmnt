@@ -1,5 +1,7 @@
 # ALU Logo Registry dApp
 
+Demo video: [https://youtu.be/7T5HeVh1CS0](https://youtu.be/7T5HeVh1CS0)
+
 A web application that lets anyone at African Leadership University, or outside it, work with the ALU logo contracts on Ethereum from a browser, without writing code or opening a terminal:
 
 * **Verify** whether a logo file is the authentic ALU logo, with no wallet and no fee.
