@@ -212,7 +212,6 @@ The frontend tests need the frontend dependencies installed (`cd frontend && npm
 * Verify by hash: [images/03_verify_hash.png](images/03_verify_hash.png)
 * No wallet installed: [images/04_no_wallet.png](images/04_no_wallet.png)
 * Wallet connected, address and ALUT balance: [images/05_wallet_connected.png](images/05_wallet_connected.png)
-* Wrong network banner: [images/06_wrong_network.png](images/06_wrong_network.png)
 * Register page, hash computed: [images/07_register_hash.png](images/07_register_hash.png)
 * MetaMask approval for registerAsset: [images/08_register_approve.png](images/08_register_approve.png)
 * Registration confirmed with the new token ID: [images/09_register_success.png](images/09_register_success.png)
